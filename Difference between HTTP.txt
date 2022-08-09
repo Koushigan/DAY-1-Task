@@ -1,0 +1,9 @@
+Difference between HTTP1.1 vs HTTP2
+
+HTTP1.1 :
+In 1989, Tim Berners-Lee invented HTTP. HTTP/1.1 was its 1st standardized version that was available for use in the year 1997 for the end-users. This version presented considerable performance optimization over its precursors and changed how communication was handled between clients and servers. However, its key qualities opened the doors to many performance and API security loopholes. HTTP/1 was known to have poor response time. With websites becoming more resource-intensive, the protocol was losing its efficiency. It progressively became essential to minimize latency and boost page load speeds. Google looked into these problems. And as expected, SPDY - an experimental project to end troubles with HTTP/1.x – was put into trial in the year 2010. Years later, the IETF, Google, Microsoft, and Facebook released the fully-comprehensive and well-tested newer version of HTTP in 2015.
+
+
+HTTP2 :
+
+HTTP/2, based on SPDY protocol, was developed to address the inherent limitations of HTTP/1.1 and further progress the Internet. HTTP/2 is the second version of HTTP with most of the shortcomings of its predecessor addressed in it. It has come with advancements in efficiency, speed, and security. Till the date, HTTP/2 is supported on almost all popular web browsers, such as Chrome, Firefox, Internet Explorer, and Safari. HTTP/2 aims at simplifying, speeding up, and empowering the applications across the internet. To achieve the same, the protocol emphasizes on page load time, resource optimization, and round-trip time (RTT) reduction. For resource-heavy pages, it supports gradual downloading on the user’s end to improve user experience.
